@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">MaterialDesign</string>
+    <string name="openDrawer">0</string>
+    <string name="closeDrawer">1</string>
 </resources>
